@@ -1,0 +1,1 @@
+bucket_name="manu-s3-2024-12-23"
